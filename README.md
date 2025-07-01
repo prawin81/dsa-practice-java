@@ -67,6 +67,9 @@ I created this to build strong DSA skills and track my journey — one question 
 
 ---
 
+## 📁 Folder Structure
+---
+
 ## 🛠️ Sample Commit Messages
 
 ```bash
@@ -75,7 +78,4 @@ git commit -m "🧠 Added Reverse String in Strings folder"
 git commit -m "📂 Created LinkedList folder and added 3 solutions"
 git commit -m "📝 Updated README tracker with latest progress"
 
----
-
-## 📁 Folder Structure
 
