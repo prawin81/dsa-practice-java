@@ -66,6 +66,19 @@ I created this to build strong DSA skills and track my journey — one question 
 - ✅ Update README tracker to stay organized
 
 ---
+## 🧠 How I'm Using This Repo
+
+I solve each problem on LeetCode or CodeStudio, then:
+1. Write clean Java code locally.
+2. Push it to this GitHub repo with proper folder structure.
+3. Update this `README.md` tracker.
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
 
 ## 📁 Folder Structure
 ---
