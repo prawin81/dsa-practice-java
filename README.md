@@ -124,6 +124,23 @@ This repository contains my journey of mastering **Data Structures & Algorithms 
 - 🔗 [InterviewBit Practice](https://www.interviewbit.com/courses/programming/)
 
 ---
+---
+
+## 🧠 Core Subjects for Interview Prep
+
+Along with DSA, I’m also revising core CS subjects that are important for SDE interviews:
+
+1. 📦 Data Structures & Algorithms (DSA)
+2. 🗂️ DBMS – SQL, Normalization, Transactions
+3. ⚙️ Operating System – Scheduling, Threads, Memory Mgmt
+4. 🌐 Computer Networks – TCP/IP, HTTP, OSI, DNS
+5. 🧱 OOPs – Classes, Inheritance, Polymorphism, SOLID
+6. 🏗️ System Design – Low-Level + High-Level
+7. 🧮 Compiler Design – (for deep tech roles, optional)
+8. 🧪 Software Engineering – SDLC, Agile, Testing
+
+📌 These subjects are commonly asked in technical interviews for both product-based and service-based companies.
+
 
 ## 📚 Tools & Language
 
