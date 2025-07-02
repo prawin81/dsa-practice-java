@@ -74,21 +74,94 @@ I solve each problem on LeetCode or CodeStudio, then:
 3. Update this `README.md` tracker.
 
 ---
+# 📘 DSA with Java – My Road to MAANG 🚀
+
+This repository contains my journey of mastering **Data Structures & Algorithms using Java**, with the ultimate goal of cracking top tech companies like **Google, Amazon, Microsoft, and other product-based companies**.
+
+---
+
+## 🧭 Current Phase: Apna College DSA Sheet
+
+- ✅ Beginner-friendly
+- ✅ Linked directly to LeetCode
+- ✅ Covers basic to medium-level topics
+- 🔗 [DSA Sheet by Apna College](https://www.apnacollege.in/dsa-practice-qs)
+
+---
+
+## 📈 Next Phases (Strategic Plan)
+
+### 🥇 1. Striver's SDE Sheet (TakeUForward)
+
+- 🔥 One of the most trusted sheets for FAANG/MAANG prep
+- Covers:
+  - Arrays & Strings
+  - Linked Lists
+  - Stack, Queue, Hashing
+  - Trees & Graphs
+  - Recursion & Backtracking
+  - Dynamic Programming
+  - Greedy, Sliding Window, etc.
+- 🔗 [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+
+---
+
+### 🥈 2. NeetCode 150 (LeetCode Patterns)
+
+- 📌 Best curated LeetCode pattern problems
+- 💥 Real MAANG-level logic sharpening
+- 🔗 [NeetCode 150 Sheet](https://neetcode.io/)
+
+---
+
+### 🥉 3. InterviewBit DSA Track
+
+- ✅ Full-length interview preparation track
+- Includes:
+  - Detailed tutorials
+  - Company-wise practice
+  - Time-based contests
+- 🔗 [InterviewBit Practice](https://www.interviewbit.com/courses/programming/)
+
+---
+
+## 📚 Tools & Language
+
+- Language: **Java**
+- Platforms used: `LeetCode`, `GFG`, `InterviewBit`
+- IDE: `IntelliJ / VS Code`
+- Version Control: `Git + GitHub`
+
+---
+
+## 🧠 Why This Repo?
+
+> "Consistency beats talent, when talent doesn’t stay consistent."
+
+I’m documenting my journey publicly to stay accountable and consistent.  
+Every commit is a step closer to my dream.
+
+---
+
+## 🏁 My Final Goal:
+
+✅ Become a strong **problem solver**  
+✅ Crack **MAANG/SDE interviews**  
+✅ Land a job in **Google or top product-based company**
+
+---
+
+📌 **Follow this repo** if you're on the same journey.  
+💬 **Feel free to connect or suggest improvements!**
+
+---
+
+### ⭐ Let’s break the system, one DSA problem at a time.
+
+
 
 ## 📬 Connect with Me
 
 - 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - 💻 GitHub: [github.com/your-username](https://github.com/your-username)
-
-## 📁 Folder Structure
----
-
-## 🛠️ Sample Commit Messages
-
-```bash
-git commit -m "✨ Added Kadane's Algorithm in Arrays"
-git commit -m "🧠 Added Reverse String in Strings folder"
-git commit -m "📂 Created LinkedList folder and added 3 solutions"
-git commit -m "📝 Updated README tracker with latest progress"
-
 
